@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=east": { "model": "beta-but-better:block/carved_melon", "y": 90 },
+    "facing=north": { "model": "beta-but-better:block/carved_melon" },
+    "facing=south": { "model": "beta-but-better:block/carved_melon", "y": 180 },
+    "facing=west": { "model": "beta-but-better:block/carved_melon", "y": 270 }
+  }
+}
