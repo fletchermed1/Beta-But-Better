@@ -3,15 +3,15 @@
 	"id": "beta-but-better",
 	"version": "${version}",
 	"name": "Beta But Better",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "Content mod for the b3(beta but better) modpack",
 	"authors": [
-		"Me!"
+		"fletchermed"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
 		"sources": "https://github.com/FabricMC/fabric-example-mod"
 	},
-	"license": "CC0-1.0",
+	"license": "MIT",
 	"icon": "assets/beta-but-better/icon.png",
 	"environment": "*",
 	"entrypoints": {

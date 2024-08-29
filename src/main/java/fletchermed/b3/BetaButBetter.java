@@ -16,6 +16,7 @@ public class BetaButBetter implements ModInitializer {
 		Items.initialize();
 		Blocks.initialize();
 		VanillaBlocks.initialize();
+
 		LOGGER.info("Beta But Better is now loaded and watching your every move");
 	}
 }
